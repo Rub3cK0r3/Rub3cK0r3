@@ -35,8 +35,6 @@ That curiosity evolved into a disciplined focus on:
 ## 🏗 Currently Building
 
 - **core_db** – CLI-first backend for system monitoring & logs  
-- **SysDataM0nitoring** – Personal scripts for infra automation  
-- **Django_2DAW_1ev** – Academic Django project
 
 ────────────────────────────
 
