@@ -10,6 +10,8 @@
 ```
 
 **`Rubén Martínez Agramunt`**
+  <br><br>
+  
   <img src="https://skillicons.dev/icons?i=python,javascript,c,java,django,postgres,docker,linux,git" />
   
   <br><br>
