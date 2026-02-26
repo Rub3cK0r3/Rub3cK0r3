@@ -11,9 +11,9 @@
 
 **`Rubén Martínez Agramunt`**
 
-[![Backend](https://img.shields.io/badge/Backend_Engineer-0d1117?style=for-the-badge&logoColor=00ff9d&color=0d1117&labelColor=00ff9d&logo=serverless)](.)
-[![Security](https://img.shields.io/badge/Security--Minded-0d1117?style=for-the-badge&color=0d1117&labelColor=ff3c5c&logo=hackthebox&logoColor=white)](.)
-[![Built from scratch](https://img.shields.io/badge/Built_From_Scratch-0d1117?style=for-the-badge&color=0d1117&labelColor=0affef&logo=linux&logoColor=black)](.)
+[![Backend](https://img.shields.io/badge/Backend_Engineer-0d1117?style=for-the-badge&labelColor=00ff9d&color=0d1117&logo=gnubash&logoColor=000000)](.)
+[![Security](https://img.shields.io/badge/Security--Minded-ffffff?style=for-the-badge&labelColor=ff3c5c&color=0d1117&logo=hackthebox&logoColor=ffffff)](.)
+[![Built from scratch](https://img.shields.io/badge/Built_From_Scratch-000000?style=for-the-badge&labelColor=0affef&color=0d1117&logo=linux&logoColor=000000)](.)
 
 > *I don't build features. I build systems.*
 
