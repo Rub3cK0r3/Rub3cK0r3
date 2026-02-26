@@ -71,8 +71,6 @@ That curiosity evolved into a disciplined focus on:
 
 ## 📫 Contact
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)  
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-
+For links in detail look into my profile. Thanks.
 
 # Rub3cK0r3
