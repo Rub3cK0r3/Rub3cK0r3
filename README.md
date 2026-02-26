@@ -102,16 +102,12 @@ $ cat active_learning.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub_@Rub3cK0r3-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rub3cK0r3)
+For links in detail look into my profile. Thanks.
 
 ```
 If you've read this far, we probably think alike.
 ```
 
 </div>
-## 📫 Contact
-
-For links in detail look into my profile. Thanks.
 
 # Rub3cK0r3
