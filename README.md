@@ -10,12 +10,13 @@
 ```
 
 **`Rubén Martínez Agramunt`**
-
-[![Backend](https://img.shields.io/badge/Backend_Engineer-0d1117?style=for-the-badge&labelColor=00ff9d&color=0d1117&logo=postgresql&logoColor=000000)](.)
-[![Security](https://img.shields.io/badge/Security--Minded-ffffff?style=for-the-badge&labelColor=ff3c5c&color=0d1117&logo=hackthebox&logoColor=ffffff)](.)
-[![Built from scratch](https://img.shields.io/badge/Built_From_Scratch-000000?style=for-the-badge&labelColor=0affef&color=0d1117&logo=linux&logoColor=000000)](.)
-
-> *I don't build features. I build systems.*
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,java,django,postgres,docker,linux,git" />
+  
+  <br><br>
+  
+  ![Backend](https://img.shields.io/badge/Backend_Engineer-0d1117?style=for-the-badge&labelColor=00ff9d&color=0d1117&logo=postgresql&logoColor=000000)
+  ![Security](https://img.shields.io/badge/Security--Minded-ffffff?style=for-the-badge&labelColor=ff3c5c&color=0d1117&logo=hackthebox&logoColor=ffffff)
+  ![Built](https://img.shields.io/badge/Built_From_Scratch-000000?style=for-the-badge&labelColor=0affef&color=0d1117&logo=linux&logoColor=000000)
 
 </div>
 
