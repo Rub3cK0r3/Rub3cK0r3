@@ -55,16 +55,6 @@ $ cat active_learning.txt
 
 ---
 
-## `> ls ./projects`
-
-| Project | Description | Status |
-|---|---|---|
-| `core_db` | CLI-first backend for system monitoring & log management | 🔨 Active |
-| `SysDataM0nitoring` | Personal scripts for infra automation | ⚙️ Ongoing |
-| `Django_2DAW_1ev` | Academic Django project — fundamentals applied | 📚 Academic |
-
----
-
 ## `> cat tech_stack.json`
 
 ### Languages
@@ -97,17 +87,5 @@ $ cat active_learning.txt
 > *"The best code is code you can reason about at 2am under pressure."*
 
 ---
-
-## `> contact`
-
-<div align="center">
-
-For links in detail look into my profile. Thanks.
-
-```
-If you've read this far, we probably think alike.
-```
-
-</div>
 
 # Rub3cK0r3
