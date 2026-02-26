@@ -85,7 +85,3 @@ $ cat active_learning.txt
 ```
 
 > *"The best code is code you can reason about at 2am under pressure."*
-
----
-
-# Rub3cK0r3
