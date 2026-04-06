@@ -75,9 +75,9 @@ $ cat active_learning.txt
 
 ```json
 {
-  "languages":      ["Python", "JavaScript", "C", "Java"],
-  "backend":        ["Django", "PostgreSQL", "REST API"],
-  "infrastructure": ["Docker", "Linux", "Git"]
+  "languages":      ["Python", "JavaScript", "C", "Java",...],
+  "backend":        ["Django", "PostgreSQL", "REST API",...],
+  "infrastructure": ["Docker", "Linux", "Git",...]
 }
 ```
 
