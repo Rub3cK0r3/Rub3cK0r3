@@ -25,6 +25,7 @@
 
 ## `> whoami`
 
+> [!TIP]
 Started in a bedroom — Linux installs, broken configs, shell scripts nobody asked for.
 That obsession with **how things actually work** never left. It evolved into something disciplined.
 
@@ -105,7 +106,6 @@ $ cat active_learning.txt
 ```
 
 ---
-
 <div align="center">
 <sub>← still reading? you might be my kind of engineer →</sub>
 </div>
