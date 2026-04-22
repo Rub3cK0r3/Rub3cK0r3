@@ -11,7 +11,7 @@
 **`Rubén Martínez Agramunt`**
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=javascript,python,go,java,c,rust,bash,git,docker,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,c,rust,bash,git,docker,linux,postgres" />
     
   <br><br>
   
