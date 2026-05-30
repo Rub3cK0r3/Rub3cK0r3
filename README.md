@@ -75,10 +75,80 @@ $ cat active_learning.txt
 
 ```json
 {
-  "languages":      ["Python", "JavaScript", "C", "Java",...],
-  "backend":        ["Django", "PostgreSQL", "REST API",...],
-  "infrastructure": ["Docker", "Linux", "Git",...]
-}
+  "core_backend": {
+    "primary_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "secondary_languages": [
+      "Java",
+      "C#"
+    ],
+    "systems_languages": [
+      "C",
+      "Rust",
+      "Go"
+    ],
+    "scripting": [
+      "Bash"
+    ],
+    "frameworks": [
+      "Django"
+    ],
+    "data": [
+      "PostgreSQL"
+    ],
+    "api_architecture": [
+      "REST"
+    ],
+    "architecture": [
+      "API Design",
+      "Async Systems",
+      "Authentication & Authorization"
+    ]
+  },
+
+  "systems_and_networking": {
+    "fundamentals": [
+      "HTTP",
+      "TCP/IP",
+      "Sockets",
+      "Concurrency"
+    ]
+  },
+
+  "infrastructure": {
+    "tools": [
+      "Docker",
+      "Git",
+      "Linux"
+    ],
+    "principles": [
+      "Containerized Development",
+      "Reproducible Environments"
+    ]
+  },
+
+  "security_mindset": {
+    "focus": [
+      "Threat Modeling",
+      "OWASP Top 10",
+      "Secure System Design",
+      "Attack Surface Awareness"
+    ]
+  },
+
+  "enterprise_experience": {
+    "platforms": [
+      "Microsoft Dynamics 365"
+    ],
+    "automation": [
+      "Power Fx",
+      "Business Process Automation",
+      "CRM Solutions"
+    ]
+  }
 ```
 
 ---
