@@ -11,7 +11,7 @@
 **`Rubén Martínez Agramunt`**
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,cs,c,rust,bash,git,docker,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,cs,c,rust,bash,php,git,docker,linux,postgres" />
     
   <br><br>
   
@@ -82,6 +82,7 @@ $ cat active_learning.txt
       "TypeScript"
     ],
     "secondary_languages": [
+      "PHP",
       "Java",
       "C#"
     ],
