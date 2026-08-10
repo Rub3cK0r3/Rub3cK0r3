@@ -9,17 +9,18 @@
 ```
 
 **`Rubén Martínez Agramunt`**
-  <br><br>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,cs,dotnet,java,spring,php,postgres,docker,linux,bash,c,git,github,postman,vim" />
-  </p>
-
-  <br><br>
   
   🔹 *Backend Engineer*
   🔹 *Security-Minded*
   🔹 *Built From Scratch*
+
+  <br><br>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,cs,dotnet,java,spring,php,js,ts,postgres,docker,linux,bash,git,github" />
+  </p>
+
+  <br><br>
 
 </div>
 
@@ -97,7 +98,11 @@ $ cat active_learning.txt
       "Bash"
     ],
     "frameworks": [
-      "Django"
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      ".NET Core",
+      "Spring Boot"
     ],
     "data": [
       "PostgreSQL"
@@ -124,6 +129,7 @@ $ cat active_learning.txt
   "infrastructure": {
     "tools": [
       "Docker",
+      "Docker Compose",
       "Git",
       "Linux"
     ],
@@ -152,6 +158,7 @@ $ cat active_learning.txt
       "CRM Solutions"
     ]
   }
+}
 ```
 
 ---
