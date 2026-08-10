@@ -11,8 +11,10 @@
 **`Rubén Martínez Agramunt`**
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,net,c,rust,bash,php,git,docker,linux,postgres,neovim" />
-    
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,cs,dotnet,java,spring,php,postgres,docker,linux,bash,c,git,github,postman,vim" />
+  </p>
+
   <br><br>
   
   🔹 *Backend Engineer*
